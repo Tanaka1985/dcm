@@ -5,7 +5,7 @@
 
 # 引用元
 
-出典：[政府統計の総合窓口(e-Stat)]（https://www.e-stat.go.jp/）
+出典：政府統計の総合窓口(e-Stat)　https://www.e-stat.go.jp/
 
 出典：「人口動態調査 / 人口動態統計 月報（概数）」（厚生労働省省）　
 
